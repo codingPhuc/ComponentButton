@@ -1,5 +1,5 @@
 /* App.css */
-.componentA {
+.componentOuter {
   padding: 20px;
   background-color: #ffffff;
   border: 1px solid #ccc;
@@ -9,7 +9,7 @@
   text-align: center;
 }
 
-.componentB {
+.componentInner {
   font-size: 18px;
   color: #333;
   margin: 10px 0;
